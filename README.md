@@ -1,1 +1,22 @@
-# Bashmatitech
+# # Bashmati Tech – All Links
+
+Welcome to Bashmati Tech.  
+Tech insights, tools, and tutorials.
+
+## Social & Community
+
+- YouTube: https://youtube.com/@bashmatitech  
+- Instagram: https://instagram.com/bashmatitech  
+- TikTok: https://tiktok.com/@bashmatitech  
+- Threads: https://threads.net/@bashmatitech  
+- X (Twitter): https://x.com/bashmatitech  
+- Facebook: https://facebook.com/bashmatitech  
+- Reddit: https://reddit.com/user/bashmatitech  
+- GitHub: https://github.com/bashmatitech  
+- Telegram: https://t.me/bashmatitech  
+- WhatsApp: Contact via link or number (add your preferred contact method)
+
+## About
+
+Managed by Bashmati Tech.  
+For collaborations and inquiries: Bashmatitech@gmail.com
