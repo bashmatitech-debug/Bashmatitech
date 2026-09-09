@@ -14,7 +14,7 @@ Tech insights, tools, and tutorials.
 - Reddit: https://reddit.com/user/bashmatitech  
 - GitHub: https://github.com/bashmatitech  
 - Telegram: https://t.me/bashmatitech  
-- WhatsApp: Contact via link or number (add your preferred contact method)
+- WhatsApp:+2347055809581
 
 ## About
 
