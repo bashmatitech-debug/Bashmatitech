@@ -1,7 +1,11 @@
-# # Bashmati Tech – All Links
+
+## About
+
+All my socials and projects are linked above.  
+For collaborations: **Bashmatitech@gmail.com**# # Bashmati Tech – All Links
 
 Welcome to Bashmati Tech.  
-Tech insights, tools, and tutorials.
+
 
 ## Social & Community
 
@@ -14,7 +18,7 @@ Tech insights, tools, and tutorials.
 - Reddit: https://reddit.com/user/bashmatitech  
 - GitHub: https://github.com/bashmatitech  
 - Telegram: https://t.me/bashmatitech  
-- WhatsApp:+2347055809581
+- WhatsApp:wa.me/2347055809581
 
 ## About
 
