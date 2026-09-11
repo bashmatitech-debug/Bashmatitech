@@ -18,7 +18,7 @@ Welcome to Bashmati Tech.
 - Reddit: https://reddit.com/user/bashmatitech  
 - GitHub: https://github.com/bashmatitech  
 - Telegram: https://t.me/bashmatitech  
-- WhatsApp:wa.me/2347055809581
+- WhatsApp:wa./me+2347055809581
 
 ## About
 
