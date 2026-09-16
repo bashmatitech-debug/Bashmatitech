@@ -202,7 +202,7 @@ export default function Home() {
             <a href="https://instagram.com/bashmatitech" target="_blank" rel="noopener noreferrer">
               Instagram
             </a>
-            <a href="https://tiktok.com/@bashmatitech" target="_blank" rel="noopener noreferrer">
+            <a href="tiktok.com/@bashmati_devo" target="_blank" rel="noopener noreferrer">
               TikTok
             </a>
             <a href="https://threads.net/@bashmatitech" target="_blank" rel="noopener noreferrer">
