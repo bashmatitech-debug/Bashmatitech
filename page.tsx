@@ -74,7 +74,7 @@ export default function Home() {
         <section id="about" className="section">
           <div className="section-heading">
             <p className="eyebrow">ABOUT</p>
-            <h2>Welcome to Bashmati Tech</h2>
+            <h2>Welcome to Bashmatidevo Tech</h2>
           </div>
 
           <div className="about-grid">
@@ -99,7 +99,7 @@ export default function Home() {
                 <li>Technology education</li>
                 <li>Community building</li>
                 <li>Nigerian technology projects</li>
-              </ul>
+ </ul>
             </div>
           </div>
         </section>
