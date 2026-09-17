@@ -196,8 +196,7 @@ export default function Home() {
           </div>
 
           <div className="social-grid">
-            <a href="
-https://youtube.com/@bashmatitech?si=jLe5LJx13Psl63cQ target="_blank" rel="noopener noreferrer">
+            <a href="https://youtube.com/@bashmatitech?si=jLe5LJx13Psl63cQ target="_blank" rel="noopener noreferrer">
               YouTube
             </a>
             <a href="https://instagram.com/bashmatitech" target="_blank" rel="noopener noreferrer">
