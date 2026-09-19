@@ -256,8 +256,6 @@ export default function Home() {
 
 "use client";
 
-import { useState } from "react";
-
 export default function Home() {
   const [formData, setFormData] = useState({
     name: "",
