@@ -172,7 +172,7 @@ export default function Home() {
             <a href="https://x.com/bashmatitech" target="_blank" rel="noopener noreferrer">X</a>
             <a href="https://facebook.com/bashmatitech" target="_blank" rel="noopener noreferrer">Facebook</a>
             <a href="https://reddit.com/user/bashmatitech" target="_blank" rel="noopener noreferrer">Reddit</a>
-            <a href="https://github.com/bashmatitech" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href=https://github.com/bashmatitech-debug/Bashmatitech target="_blank" rel="noopener noreferrer">GitHub</a>
             <a href="https://t.me/bashmatitech" target="_blank" rel="noopener noreferrer">Telegram</a>
             <a href="https://wa.me/2347055809581" target="_blank" rel="noopener noreferrer">WhatsApp</a>
           </div>
